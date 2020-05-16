@@ -1,5 +1,5 @@
 # Data Science blog post
-My first bolg post related to Data Science
+My first blog post related to Data Science.
 
 ## Installation
 Python 3.x with Anaconda, extra libraries are not required to run the code.
