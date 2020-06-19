@@ -1,6 +1,6 @@
 # Data Science blog post
 My first blog post related to Data Science.
-Link to my blog - [(https://medium.com/@anmoljm/most-popular-programming-languages-across-the-usa-canada-europe-and-india-baa6e948861b).[
+Link to my blog - [https://medium.com/@anmoljm/most-popular-programming-languages-across-the-usa-canada-europe-and-india-baa6e948861b]
 ## Installation
 Python 3.x with Anaconda, extra libraries are not required to run the code.
 
