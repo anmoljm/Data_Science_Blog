@@ -12,8 +12,8 @@ The main motive behind this post is to answer a few questions related to being a
 - The salary differences among these regions.
 
 ## File Descriptions
-data/2017_stack.csv - required data
-code/survey.ipynd - the analysis code
+- data/2017_stack.csv - required data
+- code/survey.ipynb - the analysis code
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@anmoljm/most-popular-programming-languages-across-the-usa-canada-europe-and-india-baa6e948861b).
